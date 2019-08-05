@@ -7,8 +7,8 @@
     <ProjectGuid>{0F6DF003-B669-48CF-AAF0-BF21F8162274}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>LeeCodeLibrary</RootNamespace>
-    <AssemblyName>LeeCodeLibrary</AssemblyName>
+    <RootNamespace>LeetCodeLibrary</RootNamespace>
+    <AssemblyName>LeetCodeLibrary</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

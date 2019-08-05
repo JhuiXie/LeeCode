@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeeCodeLibrary", "LeeCodeLibrary.csproj", "{78E8A572-1B82-4D59-84B6-C8D5A4549C48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeLibrary", "LeetCodeLibrary.csproj", "{78E8A572-1B82-4D59-84B6-C8D5A4549C48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
